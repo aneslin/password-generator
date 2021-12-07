@@ -6,7 +6,7 @@ var passwordOptions = {"letters":['a','b','c','d','e','f','g','h','i','j','k','l
    };
 
 var lengthValidate = function(value){
-  debugger;
+  
   console.log(value);
   //length comes in a string.  if it is NAN, returns nulls
   password = Number(value);
@@ -71,7 +71,6 @@ password = password + password_array[getRandom(password_array.length)]
 }
 window.alert(password)
 return password
-
 }
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
