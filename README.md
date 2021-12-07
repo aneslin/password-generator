@@ -13,6 +13,11 @@ Program is written in Javascript with supplied html
 * Provides prompts to the user to include numbers, symbols and upper case letters
 
 
+## Image
+
+![Screenshot](./pgImage.JPG)
+
+
 ## Notes
 I used princples borrowe from Python work to create this program.  Rather than type out two full lists of letters, I utilized the Javascript map function ,which genereates a new array using a supplied function.  
 
